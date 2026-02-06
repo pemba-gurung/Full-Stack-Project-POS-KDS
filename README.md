@@ -4,8 +4,8 @@ Summary
 
 The first part would contain a menu/ordering system where client can view the menus on
 their mobile/tablet and take order from their customer. The menu/POS system webpage displays the food or drinks menu and point of sale display. Clicking on the menu of the nav bar will bring users to the food/drink menu page. The menu page has two sections.
-• The left section on the screen will have types of meals such as combo, entrée, drinks, and list of each etc.
-• The right section on the screen will display the Check-Out and payment for the added items.
+- The left section on the screen will have types of meals such as combo, entrée, drinks, and list of each etc.
+- The right section on the screen will display the Check-Out and payment for the added items.
 
 The second part is to build KDS. KDS will have its nav bar next to menu. When the
 owner takes an order and processes the payment system using their device, KDS should receive
